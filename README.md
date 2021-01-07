@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# RoboFriends
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React app named Robofriends for practicing React basics following along Andrei Neagoie ZTM web developer course.
 
 ## Available Scripts
 
